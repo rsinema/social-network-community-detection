@@ -31,7 +31,7 @@ The dataset consists of two CSV files:
 
 - The dataset and graph is described in these slides
 - The knowledge graph is found in the class repo under notebooks/graph_data_science/project_3_graph.graphml
-- Read the graph into a networkx graph structure using G = nx.read_graphml("project_3_graph.graphml")
+- Read the graph into a networkx graph structure using `G = nx.read_graphml("project_3_graph.graphml")`
 
 ### 2. Understand the graph schema
 
