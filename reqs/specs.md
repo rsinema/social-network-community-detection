@@ -15,7 +15,8 @@ A teacher wants to encourage students in an undergraduate CS course to adopt new
 - Completing homework in small groups.
 - Reviewing each other's code.
 - Using LLMs as tutors and for busy work (but not as vicarious programmers).
-  Adoption of these behaviors depends on social cues and reinforcement, making it compatible with the complex contagion models you explored in Project 2.
+
+Adoption of these behaviors depends on social cues and reinforcement, making it compatible with the complex contagion models you explored in Project 2.
 
 ## Dataset Overview
 
