@@ -1,0 +1,13 @@
+{
+  "exp_name": "cs236_f05_top_5_TAs",
+  "network_type": "cs236",
+  "nodes": 174,
+  "edges": 8704,
+  "pct_adopted": 100.0,
+  "time_to_stop": 3,
+  "density": 0.5783,
+  "avg_clustering": 0.853255,
+  "avg_degree": 100.046,
+  "avg_path_length": 1.4238,
+  "diameter": 3
+}

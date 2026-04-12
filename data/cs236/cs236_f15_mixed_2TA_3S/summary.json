@@ -1,0 +1,13 @@
+{
+  "exp_name": "cs236_f15_mixed_2TA_3S",
+  "network_type": "cs236",
+  "nodes": 174,
+  "edges": 8704,
+  "pct_adopted": 4.02,
+  "time_to_stop": 1,
+  "density": 0.5783,
+  "avg_clustering": 0.853255,
+  "avg_degree": 100.046,
+  "avg_path_length": 1.4238,
+  "diameter": 3
+}
